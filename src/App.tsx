@@ -1,14 +1,14 @@
 import React, { useEffect } from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import TrustTimeline from './components/TrustTimeline';
-import IndustryCards from './components/IndustryCards';
-import ROICalculator from './components/ROICalculator';
-import GrowthSystem from './components/GrowthSystem';
-import Testimonials from './components/Testimonials';
-import FAQ from './components/FAQ';
-import Footer from './components/Footer';
-import ChatButton from './components/ChatButton';
+import Navbar from '../components/Navbar';
+import Hero from '../components/Hero';
+import TrustTimeline from '../components/TrustTimeline';
+import IndustryCards from '../components/IndustryCards';
+import ROICalculator from '../components/ROICalculator';
+import GrowthSystem from '../components/GrowthSystem';
+import Testimonials from '../components/Testimonials';
+import FAQ from '../components/FAQ';
+import Footer from '../components/Footer';
+import ChatButton from '../components/ChatButton';
 
 export default function App() {
   useEffect(() => {
